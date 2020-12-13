@@ -2,6 +2,7 @@ import { colorToPixi } from '../color';
 import { NodeStyle } from '../style';
 import { textToPixi } from '../text';
 import { TextureCache } from '../textures';
+import * as PIXI from 'pixi.js';
 
 const DELIMETER = '::';
 
