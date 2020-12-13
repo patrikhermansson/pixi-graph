@@ -1,4 +1,5 @@
 import rgba from 'color-rgba';
+import * as PIXI from 'pixi.js';
 
 export function colorToPixi(color: string) {
   const rgbaColor = rgba(color);
