@@ -1,6 +1,7 @@
 import { colorToPixi } from '../color';
 import { EdgeStyle } from '../style';
 import { TextureCache } from '../textures';
+import * as PIXI from 'pixi.js';
 
 const EDGE_LINE = 'EDGE_LINE';
 
